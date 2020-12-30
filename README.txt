@@ -1,3 +1,6 @@
+My own Personal Portfolio Github Pages. All rights reserved.
+
+
 Credits:
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
